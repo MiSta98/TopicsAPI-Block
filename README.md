@@ -15,7 +15,6 @@ After installation, go to a site, open the console with F12 and call the method 
 ## Develop
 ```bash
 git clone https://github.com/MiSta98/TopicsAPI-Block.git
-cd flocblock
 npm install # to install browserify.
 npm run build # to build the extension. 
 npm run pkg # to create a .zip
