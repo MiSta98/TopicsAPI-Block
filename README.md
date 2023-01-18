@@ -23,4 +23,5 @@ npm run pkg # to create a .zip
 
 ## Credits
 Icons credit: https://www.freepik.com from https://www.flaticon.com
+
 Based on: https://github.com/ShivanKaul/flocblock
